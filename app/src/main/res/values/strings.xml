@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HttpPOST Example</string>
+    <string-array name="request_methods">
+        <item>GET</item>
+        <item>POST</item>
+        <item>DELETE</item>
+        <item>PUT</item>
+        <item>HEAD</item>
+        <item>OPTIONS</item>
+        <item>TRACE</item>
+    </string-array>
+    <string name="default_url">http://api.openweathermap.org/data/2.5/forecast</string>
+    <string name="send">Wyślij</string>
+    <string name="parameters">Parametry:</string>
+    <string name="key">Klucz</string>
+    <string name="value">Wartość</string>
+</resources>
