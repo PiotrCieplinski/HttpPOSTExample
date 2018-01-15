@@ -39,7 +39,8 @@ import javax.net.ssl.HttpsURLConnection;
 public class MainActivity extends AppCompatActivity {
 
     //Bazowy adres serwera
-    private static final String BASE_URL = "http://192.168.0.157/webapi/index.php/";
+    //private static final String BASE_URL = "http://192.168.0.157/webapi/index.php/";
+    private static final String BASE_URL = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
